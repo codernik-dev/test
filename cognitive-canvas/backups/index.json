@@ -1,13 +1,13 @@
 {
   "_kind": "browser-payload",
-  "_savedAt": "2025-12-20T05:36:02.926Z",
+  "_savedAt": "2025-12-20T05:37:51.815Z",
   "git": {
     "owner": "codernik-dev",
     "repo": "test",
     "branch": "main"
   },
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2025-12-20T05:36:02.911Z",
+  "updatedAt": "2025-12-20T05:37:51.776Z",
   "backups": [
     {
       "name": "cognitive-canvas-full-backup-2025-12-16.zip",
@@ -18,6 +18,11 @@
       "name": "cognitive-canvas-full-backup-2025-12-20.zip",
       "path": "cognitive-canvas/backups/data/cognitive-canvas-full-backup-2025-12-20.json",
       "createdAt": "2025-12-20T05:35:58.496Z"
+    },
+    {
+      "name": "cognitive-canvas-full-backup-2025-12-20.zip",
+      "path": "cognitive-canvas/backups/data/cognitive-canvas-full-backup-2025-12-20.json",
+      "createdAt": "2025-12-20T05:37:47.623Z"
     }
   ]
 }
