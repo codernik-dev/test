@@ -1,10 +1,18 @@
 {
   "_kind": "browser-payload",
-  "_savedAt": "2026-04-09T07:04:20.516668300+00:00",
-  "content": "WwogIHsKICAgICJuYW1lIjogIkNvZ25pdGl2ZUNhbnZhc19iYWNrdXBfMjAyNi0wNC0wOS5jY2JhayIsCiAgICAicGF0aCI6ICJjb2duaXRpdmUtY2FudmFzL2JhY2t1cHMvZGF0YS9Db2duaXRpdmVDYW52YXNfYmFja3VwXzIwMjYtMDQtMDkuY2NiYWsiLAogICAgImNyZWF0ZWRBdCI6ICIyMDI2LTA0LTA5VDA3OjA0OjIwLjUxNVoiCiAgfQpd",
+  "_savedAt": "2026-04-14T06:58:08.292249800+00:00",
+  "backups": [
+    {
+      "createdAt": "2026-04-14T06:58:04.371Z",
+      "name": "CognitiveCanvas_backup_2026-04-14_12-28-pm.zip",
+      "path": "cognitive-canvas/backups/data/CognitiveCanvas_backup_2026-04-14_12-28-pm.json"
+    }
+  ],
   "git": {
     "branch": "main",
     "owner": "codernik-dev",
     "repo": "test"
-  }
+  },
+  "indexKind": "cognitive-canvas-backup-index",
+  "updatedAt": "2026-04-14T06:58:08.291Z"
 }
