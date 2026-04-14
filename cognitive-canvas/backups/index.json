@@ -1,9 +1,14 @@
 {
   "_kind": "browser-payload",
-  "_savedAt": "2026-04-14T06:58:08.292249800+00:00",
+  "_savedAt": "2026-04-14T06:58:18.837388600+00:00",
   "backups": [
     {
       "createdAt": "2026-04-14T06:58:04.371Z",
+      "name": "CognitiveCanvas_backup_2026-04-14_12-28-pm.zip",
+      "path": "cognitive-canvas/backups/data/CognitiveCanvas_backup_2026-04-14_12-28-pm.json"
+    },
+    {
+      "createdAt": "2026-04-14T06:58:15.628Z",
       "name": "CognitiveCanvas_backup_2026-04-14_12-28-pm.zip",
       "path": "cognitive-canvas/backups/data/CognitiveCanvas_backup_2026-04-14_12-28-pm.json"
     }
@@ -14,5 +19,5 @@
     "repo": "test"
   },
   "indexKind": "cognitive-canvas-backup-index",
-  "updatedAt": "2026-04-14T06:58:08.291Z"
+  "updatedAt": "2026-04-14T06:58:18.836Z"
 }
