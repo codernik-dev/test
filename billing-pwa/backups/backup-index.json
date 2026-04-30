@@ -1,14 +1,14 @@
 {
   "_kind": "browser-payload",
-  "_savedAt": "2026-04-30T09:34:42.919848400+00:00",
+  "_savedAt": "2026-04-30T09:47:07.444488+00:00",
   "backups": [
     {
-      "createdAt": "2026-04-30T09:34:22.230Z",
+      "createdAt": "2026-04-30T09:46:42.523Z",
       "filePath": "billing-pwa/backups/data/billing-pwa-backup-Till1-2026-04-30.json",
       "name": "billing-pwa-backup-Till1-2026-04-30.zip"
     },
     {
-      "createdAt": "2026-04-30T09:34:22.230Z",
+      "createdAt": "2026-04-30T09:46:42.523Z",
       "filePath": "billing-pwa/backups/data/billing-pwa-backup-2026-04-30.json",
       "name": "billing-pwa-backup-2026-04-30.zip"
     },
@@ -23,7 +23,7 @@
       "name": "billing-pwa-backup-2026-04-14.zip"
     }
   ],
-  "createdAt": "2026-04-30T09:34:42.918Z",
+  "createdAt": "2026-04-30T09:47:07.443Z",
   "git": {
     "branch": "main",
     "owner": "codernik-dev",
